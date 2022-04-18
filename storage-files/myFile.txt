@@ -1,0 +1,2 @@
+Hello this is text that should be written to a file called myFile.txt
+This is some more text written to the same file, it looks as tho it just appends it to the text files.
